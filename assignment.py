@@ -1,6 +1,6 @@
 import requests
 import json
-APIKEY='b3fc36b34ffc79871566c3074ef2fdf2'
+APIKEY='your api key'
 class WhetherApp:
     def __init__(self):
         self.location=input('enter the location: ')
